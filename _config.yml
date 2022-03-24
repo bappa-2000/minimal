@@ -3,6 +3,6 @@ logo: /assets/img/manish.png
 description: 
     <p align="center"><a href="https://www.linkedin.com/in/ranjanmanish/">Linkedin</a></p>
     <p align="center">Welcome to my personal homepage</p>
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
