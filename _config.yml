@@ -1,6 +1,8 @@
 title: <p align="center">Manish Ranjan</p>
-logo: /assets/img/logo.png
-description: <p align="center">Welcome to my personal homepage</p>
+logo: /assets/img/manish.png
+description: 
+    <p align="center"><a href="https://www.linkedin.com/in/ranjanmanish/">Linkedin</a></p>
+    <p align="center">Welcome to my personal homepage</p>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
